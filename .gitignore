@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+ckpts*
+tiny_coco_dataset*
+coco/

@@ -9,8 +9,8 @@ Reproduce the notebook `detr.ipynb` on Colab [![](https://colab.research.google.
 
 | | | | |
 |---|---|---|---|
-|coco-tiny | 40k iterations | [ckpt](https://drive.google.com/file/d/1FOx7sTVd0XNrPta-A3F_l_c_7U1z4moQ/view?usp=sharing) | [loss-history](https://drive.google.com/file/d/1QFD87x-ffAufRnse1wiwlWEk53wvolgx/view?usp=sharing) |
-|coco-complete | 150 epochs | [ckpt](https://drive.google.com/file/d/1r48PzfFaOUtyKACO31-koT8LPVZKQG0t/view?usp=sharing) | [loss-history](https://drive.google.com/file/d/14s0H4_95VaZvxndxjRQFd0S3oKJJydRf/view?usp=sharing) |
+|coco-tiny | 40k iterations | [ckpt](https://drive.google.com/file/d/1_2uQ3t0MgZbChkuHfzIR5WHb4bBTbv6c/view?usp=drive_link) | [loss-history](https://drive.google.com/file/d/1lN_Ej6mxNlV_K6DNjDgFlj5Ty2w2KWT0/view?usp=drive_link) |
+|coco-complete | 150 epochs | [ckpt](https://drive.google.com/file/d/1BqkhrH9mKcQ57SAXR9APJ8GBe0I-fHqL/view?usp=drive_link) | [loss-history](https://drive.google.com/file/d/1ybp8C-fW-VPhRoZt70MWIoN5MkI5ReB6/view?usp=drive_link) |
 
 
 ## Introduction
